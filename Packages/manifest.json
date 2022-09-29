@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.luvikung.luviconsole": "https://github.com/LuviKunG/LuviConsole.git#2.7.0",
     "com.unity.ide.visualstudio": "2.0.16",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.ugui": "1.0.0",
